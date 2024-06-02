@@ -10,8 +10,6 @@ This project demonstrates the use of binary protocols and data serialization in 
 2. Build the project using Maven:
       mvn clean install
 
-markdown
-Copy code
 3. Run the application:
       java -jar target/binary-protocols-serialization-1.0-SNAPSHOT-jar-with-dependencies.jar
       
